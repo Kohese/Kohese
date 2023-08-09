@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div align='center'>
-[![Spotify](https://novatorem-a5dq-kohese.vercel.app/api/spotify)](https://open.spotify.com/user/x.lope)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-a5dq-kohese.vercel.app/api/spotify)](https://open.spotify.com/user/x.lope)
 </div>
 
 <!--
