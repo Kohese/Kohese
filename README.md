@@ -4,15 +4,15 @@
   [![Spotify](https://novatorem-a5dq-kohese.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/x.lope)
 </div>
 
-<div>
+<div align='left'>
 
 <img align='right' src='https://media.tenor.com/3F5XmYhEARwAAAAd/chill-japan.gif' width='400' height='600' alt='animated street gif'>
 
 <h2> / About Me /</h2>
 
-- **Student** currently studying **Information Systems & Technology** learning web development on the side.
-- **Fast learner** and **eager to explore new technologies**. I’m always curious about learning new skills, tools, and concepts.
-- I’m a developer who has **passion for building clean web applications with intuitive functionality**. I enjoy the process of turning ideas into reality using creative solutions.
+- **Student** studying **Information Systems & Technology** learning web development on the side.
+- **Fast learner** and **eager to explore new technologies**, always curious about learning new skills, tools, and concepts.
+- Developer who has **passion for building clean web applications with intuitive functionality**. I enjoy the process of turning ideas into reality using creative solutions.
 
 
 <h2>/ Skills /</h2>
