@@ -7,6 +7,7 @@
 <div>
 
 <img align='right' src='https://media.tenor.com/3F5XmYhEARwAAAAd/chill-japan.gif' width='400' height='600' alt='animated street gif'>
+&nbsp;
   
 <h2> / About Me /</h2>
 
