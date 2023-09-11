@@ -1,4 +1,4 @@
-<h1 align='center'> Why hello there <img src='https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif' width='75'> </h1>
+<h1 align='center'> Why hello there <img src='https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif' width='80'> </h1>
   
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-a5dq-kohese.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/x.lope)
